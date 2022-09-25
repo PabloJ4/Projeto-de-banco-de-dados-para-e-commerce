@@ -1,4 +1,4 @@
-### Mtareial do desafio 1 e 2 para o projeto de E-commerce
+### Material do desafio 1 e 2 para o projeto de E-commerce
 ## Projeto de E-commerce
 
 **Narrativa - Produto**
